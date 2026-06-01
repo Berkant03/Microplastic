@@ -1,0 +1,15 @@
+{
+    "conc_ocean": 0.298,
+    "conc_small": 0,
+    "conc_large": 0.0,
+    "diff_ocean": 0.58,
+    "diff_small": 0.58,
+    "diff_large": 42.6,
+    "egest_small": 2.78e-05,
+    "egest_large": 4.44e-05,
+    "clear_small": 1.678e-08,
+    "clear_large": 0.015,
+    "count_small": 10000,
+    "count_large": 0.55,
+    "predation": 4.57e-07
+}
